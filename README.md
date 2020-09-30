@@ -1,2 +1,2 @@
-# Omnifood
+# Urban Eatery.
 A food ordering website
